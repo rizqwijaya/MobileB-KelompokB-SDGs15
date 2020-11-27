@@ -11,6 +11,7 @@ Dictionary spesies laba-laba
 kelompok_b_sdgs_15
 Fajriah Ikawati Valentina - 182410103013
 Yunand Nidzar Rifazmi Alihakim - 182410103061
+Mohammad Abuemas Rizq Wijaya - 182410103087
 
 Update / Perkembangan :
 - UTS

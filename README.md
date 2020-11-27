@@ -1,4 +1,4 @@
-SpidyLib
+###SpidyLib
 
 Deskripsi aplikasi
 aplikasi "SpidyLib" adalah alat batu bagi pengamat laba-laba dalam mengumpulkan, menyimpan, dan mengelola data lapangan. Lebih jauh aplikasi ini adalah media dalam menggalang kekuatan publik/amatir untuk memperkuat gerakan konservasi dan ilmu pengetahuan laba-laba berbasis warga/ voluntary.

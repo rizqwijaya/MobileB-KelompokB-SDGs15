@@ -14,4 +14,4 @@ Kelompok B SDGs 15
 - Mohammad Abuemas Rizq Wijaya - 182410103087
 
 Update / Perkembangan :
-- UTS
+- UAS / DONE
